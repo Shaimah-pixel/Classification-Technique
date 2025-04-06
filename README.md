@@ -1,4 +1,5 @@
 # Classification-Technique
+This dataset include data for the estimation of obesity levels in individuals from the countries of Mexico, Peru and Colombia, based on their eating habits and physical condition.
 In this project, I applied classification technique.
 The dataset was split into training and test sets. 
 Various classification algorithms, such as, Decision Trees, Support Vector Machines, KNN, Naive Bayes, SVM were explored to determine which method provided the best accuracy for this particular dataset.
